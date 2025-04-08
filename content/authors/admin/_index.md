@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Полина Симонова
+title: Polina Simonova
 
 # Full name (for SEO)
-first_name: Полина
-last_name: Симонова
+first_name: Polina
+last_name: Simonova
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +21,7 @@ role: RUDN student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: РУДН
+  - name: Peoples' Friendship University of Russia
     url: https://eng.rudn.ru/
 
 # Social network links
@@ -41,8 +41,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: Бакалавр информатики
-    institution: РУДН
+  - area: Bachelor of Informatics
+    institution: RUDN University
     date_start: 2024-09-01
     date_end: 2028-05-31
     summary: |
@@ -138,4 +138,4 @@ awards:
 
 ## About Me
 
-Полина Симонова - студентка группы НКАбд-04-24. Обучается в Российском Университете Дружбы Наородов
+Polina Simonova is a student of НКАбд-04-24. Studies at Peoples' Friendship University of Russia
