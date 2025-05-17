@@ -1,7 +1,7 @@
 ---
 title: Курс 'Введение в Linux'
-date: 2023-04-07
-external_link: https://github.com/o5o6am/study_2024-2025_os-intro/tree/master/labs/lab15
+date: 2024-05-10
+external_link: https://github.com/o5o6am/study_2024-2025_os-intro/tree/master/external_course
 tags:
   - Hugo
   - Wowchemy

@@ -110,7 +110,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Введение в Linux
-    url: https://stepik.org/course/73/promo
+    url: https://stepik.org/cert/2846398
     date: '2025-01-25'
     awarder: Stepik
     summary: |
